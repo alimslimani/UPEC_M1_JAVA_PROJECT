@@ -1,0 +1,3 @@
+Libele : BANANE - Label : El Tequito - Type produit : FRUIT - Type etalage : SELECTION - DDF : 07-01-2017 - DLC : 28-01-2017 - Quantity : 156 - Price : 0.99
+Libele : KIWI - Label : N.A! Nature Addicts - Type produit : FRUIT - Type etalage : MASS - DDF : 03-01-2017 - DLC : 28-01-2017 - Quantity : 150 - Price : 1.0
+Libele : JAVEL - Label : Label : FR - Type produit : HEGENIC - Type etalage : MASS - DDF : 20-01-2017 - DLC : 06-01-2019 - Quantity : 20 - Price : 1.29
